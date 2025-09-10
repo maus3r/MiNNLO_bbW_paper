@@ -1,0 +1,12 @@
+source ~/.bash_functions
+
+
+double_scp wieseman@tha310.mpp.mpg.de mwiese@mppui4.t2.rzg.mpg.de /ptmp/mpp/mwiese/NEW-POWHEG-BOX-RES/MiNNLO_res_ptj/bblnu/run_NLO+PS_nf6_Q/combined-pwgLHEF_analysis-NLO-*.top run_NLO_Wp_nf6/
+
+exit 1
+
+double_scp wieseman@tha310.mpp.mpg.de mwiese@mppui4.t2.rzg.mpg.de /ptmp/mpp/mwiese/NEW-POWHEG-BOX-RES/MiNNLO_res_ptj/bblnuJ/run_Wp_first_MiNNLO_reweight_2loop/combined-*MiN*LO-kQ05*-???.top run_MiNNLO_Wp_nf6_kQ05
+
+double_scp wieseman@tha310.mpp.mpg.de mwiese@mppui4.t2.rzg.mpg.de /ptmp/mpp/mwiese/NEW-POWHEG-BOX-RES/MiNNLO_res_ptj/bblnuJ/run_Wp_first_MiNNLO_reweight_2loop/combined-*MiN*LO-kQ025*-???.top run_MiNNLO_Wp_nf6_kQ025
+
+double_scp wieseman@tha310.mpp.mpg.de mwiese@mppui4.t2.rzg.mpg.de /ptmp/mpp/mwiese/NEW-POWHEG-BOX-RES/MiNNLO_res_ptj/bblnuJ/run_Wp_first_MiNNLO_reweight_2loop/combined-*MiN*LO-kQ1*-???.top run_MiNNLO_Wp_nf6_kQ1
