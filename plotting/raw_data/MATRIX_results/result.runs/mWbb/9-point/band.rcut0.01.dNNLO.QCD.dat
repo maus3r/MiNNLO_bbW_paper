@@ -1,0 +1,3 @@
+#qTcut         central scale                 minimum (9-point)             maximum (9-point)             
+#              xiR=1  xiF=1                  xiR=2  xiF=2                  xiR=0.5  xiF=0.5              µR=xiR*mWbb  µF=xiF*mWbb
+0.01           24065.591      34.248093      21559.719      24.678287      26966.979      49.528105               -10.41%          12.06%

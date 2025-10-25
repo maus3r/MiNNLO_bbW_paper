@@ -1,0 +1,3 @@
+#qTcut         central scale                 minimum (fact)                maximum (fact)                
+#              xiR=1  xiF=1                  xiR=1  xiF=0.5                xiR=1  xiF=2                  µR=xiR*mWbb  µF=xiF*mWbb
+0.01           23911.891      8.2784444      23490.375      7.7336091      24121.261      8.8174754                -1.76%           0.88%

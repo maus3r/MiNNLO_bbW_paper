@@ -1,0 +1,4 @@
+#qTcut         central scale                 minimum (antipodal)           maximum (antipodal)           
+#              xiR=1  xiF=1                  xiR=2  xiF=0.5                xiR=0.5  xiF=2                µR=xiR*mWbb  µF=xiF*mWbb
+0              63554.326      63.255045      53174.348      38.748171      75525.769      106.71760               -16.33%          18.84%
+1              63554.326      63.255045      53174.348      38.748171      75525.769      106.71760               -16.33%          18.84%

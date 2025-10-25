@@ -141,7 +141,7 @@ class gnuplot():
         self.curve_properties = {} # and an empty dictionary for the properties of these curves (linestyle, coloer, ...)
         self.plot_properties = {} # and another empty dictionary for the properties of the plot (xmin, xmax,...)
         self.result_folder_path  = result_folder_path_in # use pwd in stand alone mode
-        self.gnuplot_folder_name = "gnuplot_LHEF"
+        self.gnuplot_folder_name = "gnuplot_LHEF_WP"
         self.gnuplot_folder_path = pjoin(self.result_folder_path,self.gnuplot_folder_name)
         self.define_all_label_mappings()
         self.binwidth = 0
@@ -1159,8 +1159,10 @@ if __name__ == "__main__":
             gnu.add_curve(NLOPS_lhef_NLOPDF,{"format" : "histogram", "label" : "NLO+PS","line_style" : 5})
         # if os.path.exists(NLOPS_lhef_NNLOPDF):
         #     gnu.add_curve(NLOPS_lhef_NNLOPDF,{"format" : "histogram", "label" : "NLO+PS NNLOPDFs","line_style" : 5})
+        # if os.path.exists(MATRIX_LO):
+        #     gnu.add_curve(MATRIX_LO,{"format" : "histogram", "label" : "LO (MATRIX)","line_style" : 6})
         # if os.path.exists(MATRIX_NLO):
-        #      gnu.add_curve(MATRIX_NLO,{"format" : "histogram", "label" : "NLO QCD (MATRIX)","line_style" : 5})
+        #     gnu.add_curve(MATRIX_NLO,{"format" : "histogram", "label" : "NLO QCD (MATRIX)","line_style" : 5})
         # if os.path.exists(MATRIX_NNLO):
         #     gnu.add_curve(MATRIX_NNLO,{"format" : "histogram", "label" : "NNLO QCD (MATRIX)","line_style" : 3})
 
@@ -1400,14 +1402,14 @@ if __name__ == "__main__":
     time.sleep(1)
     # combine the pdfs in gnuplot folder in one single pdf file
     # get all pdfs in gnuplot folder
-    all_pdfs = glob.glob("gnuplot_LHEF/*.pdf")
-    category_pdfs = list(sorted(glob.glob("gnuplot_LHEF/*-*.pdf")))
+    all_pdfs = glob.glob("gnuplot_LHEF_WP/*.pdf")
+    category_pdfs = list(sorted(glob.glob("gnuplot_LHEF_WP/*-*.pdf")))
     nocategory_pdfs = list(sorted(list(set(all_pdfs) - set(category_pdfs)),key=len))
     
     all_pdfs = nocategory_pdfs + category_pdfs
 
 #    command = "pdfunite"
-    command="gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=gnuplot_LHEF/all_plots_vs_NNLO.pdf "
+    command="gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=gnuplot_LHEF_WP/all_plots_WP.pdf "
     # Appending all pdfs
     for pdf in all_pdfs:
         command += " \"%s\"" % pdf

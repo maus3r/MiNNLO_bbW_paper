@@ -1,0 +1,80 @@
+qTcut          mu_R/GAo2      mu_F/GAo2           list/contribution                                                    dXS +- err (list/contribution)
+
+independent    0.5            0.5                 NLO.CS.32                                                                   -nan +-            -nan
+
+independent    0.5            1                   NLO.CS.32                                                                   -nan +-            -nan
+
+independent    0.5            2                   NLO.CS.32                                                                   -nan +-            -nan
+
+independent    1              0.5                 NLO.CS.32                                                                   -nan +-            -nan
+
+independent    1              1                   NLO.CS.32                                                                   -nan +-            -nan
+
+independent    1              2                   NLO.CS.32                                                                   -nan +-            -nan
+
+independent    2              0.5                 NLO.CS.32                                                                   -nan +-            -nan
+
+independent    2              1                   NLO.CS.32                                                                   -nan +-            -nan
+
+independent    2              2                   NLO.CS.32                                                                   -nan +-            -nan
+
+=====================================================================================================================================================
+
+qTcut          mu_R/GAo2      mu_F/GAo2           list/contribution                                                    dXS +- err (list/contribution)
+
+independent    0.5            0.5                 NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    0.5            0.5                 VA.QCD                                                                      -nan +-            -nan
+independent    0.5            0.5                 CA.QCD                                                                      -nan +-            -nan
+independent    0.5            0.5                 RA.QCD                                                                      -nan +-            -nan
+
+independent    0.5            1                   NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    0.5            1                   VA.QCD                                                                      -nan +-            -nan
+independent    0.5            1                   CA.QCD                                                                      -nan +-            -nan
+independent    0.5            1                   RA.QCD                                                                      -nan +-            -nan
+
+independent    0.5            2                   NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    0.5            2                   VA.QCD                                                                      -nan +-            -nan
+independent    0.5            2                   CA.QCD                                                                      -nan +-            -nan
+independent    0.5            2                   RA.QCD                                                                      -nan +-            -nan
+
+independent    1              0.5                 NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    1              0.5                 VA.QCD                                                                      -nan +-            -nan
+independent    1              0.5                 CA.QCD                                                                      -nan +-            -nan
+independent    1              0.5                 RA.QCD                                                                      -nan +-            -nan
+
+independent    1              1                   NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    1              1                   VA.QCD                                                                      -nan +-            -nan
+independent    1              1                   CA.QCD                                                                      -nan +-            -nan
+independent    1              1                   RA.QCD                                                                      -nan +-            -nan
+
+independent    1              2                   NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    1              2                   VA.QCD                                                                      -nan +-            -nan
+independent    1              2                   CA.QCD                                                                      -nan +-            -nan
+independent    1              2                   RA.QCD                                                                      -nan +-            -nan
+
+independent    2              0.5                 NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    2              0.5                 VA.QCD                                                                      -nan +-            -nan
+independent    2              0.5                 CA.QCD                                                                      -nan +-            -nan
+independent    2              0.5                 RA.QCD                                                                      -nan +-            -nan
+
+independent    2              1                   NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    2              1                   VA.QCD                                                                      -nan +-            -nan
+independent    2              1                   CA.QCD                                                                      -nan +-            -nan
+independent    2              1                   RA.QCD                                                                      -nan +-            -nan
+
+independent    2              2                   NLO.CS.32                                                                   -nan +-            -nan
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+independent    2              2                   VA.QCD                                                                      -nan +-            -nan
+independent    2              2                   CA.QCD                                                                      -nan +-            -nan
+independent    2              2                   RA.QCD                                                                      -nan +-            -nan
+
+=====================================================================================================================================================
+
