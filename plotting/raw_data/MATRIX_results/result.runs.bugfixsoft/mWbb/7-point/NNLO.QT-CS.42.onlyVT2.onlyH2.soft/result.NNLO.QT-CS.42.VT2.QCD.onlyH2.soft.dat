@@ -1,0 +1,9 @@
+qTcut          mu_R/mWbb      mu_F/mWbb      dXS +- err (NNLO.QT-CS.42.VT2.QCD)
+
+independent    0.5            0.5            -4071.2459      +- 6.5201294      
+independent    0.5            1              -4337.3668      +- 6.6945676      
+independent    1              0.5            -2691.9183      +- 4.458344       
+independent    1              1              -2864.9341      +- 4.5650284      
+independent    1              2              -3014.2939      +- 4.6555772      
+independent    2              1              -1973.0241      +- 3.2304466      
+independent    2              2              -2074.42        +- 3.2880674      

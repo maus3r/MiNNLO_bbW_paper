@@ -1,0 +1,84 @@
+      bin (total_rate)   qTcut           order/list                                                                 dsigma +-            error
+
+         0           1   extrapolation   NNLO.QCD.QT                                                                 63152.4129 +-          33.4642
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   extrapolation   NLO.QT.32                                                                   23914.9252 +-           9.6160
+         0           1   extrapolation   NNLO.QT-CS.42                 woVT2                                          6355.2533 +-          23.8237
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.01            NNLO.QCD.QT                                                            63138.7137 +-          35.6123
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.01            NLO.QT.32                                                                   23921.7237 +-           9.5388
+         0           1   0.01            NNLO.QT-CS.42                 woVT2                                          6334.7556 +-          26.7850
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.05            NNLO.QCD.QT                                                            63127.6734 +-          27.2614
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.05            NLO.QT.32                                                                   23936.7887 +-           7.4318
+         0           1   0.05            NNLO.QT-CS.42                 woVT2                                          6308.6503 +-          15.1042
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.1             NNLO.QCD.QT                                                            63109.3286 +-          25.7079
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.1             NLO.QT.32                                                                   23960.1672 +-           6.7181
+         0           1   0.1             NNLO.QT-CS.42                 woVT2                                          6266.9270 +-          12.4880
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.15            NNLO.QCD.QT                                                            63096.8215 +-          25.0375
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.15            NLO.QT.32                                                                   23983.3495 +-           6.3329
+         0           1   0.15            NNLO.QT-CS.42                 woVT2                                          6231.2377 +-          11.2674
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.2             NNLO.QCD.QT                                                            63110.0131 +-          24.7325
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.2             NLO.QT.32                                                                   24006.9474 +-           6.0721
+         0           1   0.2             NNLO.QT-CS.42                 woVT2                                          6220.8313 +-          10.7243
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.25            NNLO.QCD.QT                                                            63120.1080 +-          24.6237
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.25            NLO.QT.32                                                                   24025.6082 +-           5.8761
+         0           1   0.25            NNLO.QT-CS.42                 woVT2                                          6212.2653 +-          10.5822
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+         0           1   0.5             NNLO.QCD.QT                                                            63133.8831 +-          23.8560
+---------------------------------------------------------------------------------------------------------------------------------------------------
+         0           1   independent     LO.22                                                                       15558.8505 +-           0.6680
+         0           1   0.5             NLO.QT.32                                                                   24102.5650 +-           5.2993
+         0           1   0.5             NNLO.QT-CS.42                 woVT2                                          6149.0837 +-           9.0118
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.noH2                                    705.0804 +-           0.4013
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M1M1                            7578.4204 +-           5.1657
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.M2M0                           11904.8172 +-          20.2900
+         0           1   independent     NNLO.QT-CS.42                 onlyVT2.onlyH2.soft                           -2864.9341 +-           4.5650
+
+===================================================================================================================================================
+

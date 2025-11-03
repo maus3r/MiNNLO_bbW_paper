@@ -1,0 +1,4 @@
+#qTcut         central scale                 minimum (fact)                maximum (fact)                
+#              xiR=1  xiF=1                  xiR=0.5  xiF=0.5              xiR=0.5  xiF=0.5              µR=xiR*GAo2  µF=xiF*GAo2
+0              -nan           -nan           -nan           -nan           -nan           -nan                      -nan%           -nan%
+1              -nan           -nan           -nan           -nan           -nan           -nan                      -nan%           -nan%

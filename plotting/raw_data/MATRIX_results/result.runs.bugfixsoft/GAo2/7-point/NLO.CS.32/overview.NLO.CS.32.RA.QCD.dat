@@ -1,0 +1,46 @@
+qTcut          mu_R/GAo2      mu_F/GAo2           subprocess                                                     dXS +- err (contribution/subprocess)     chi2_dof   n_run   (removed)
+
+independent    0.5            0.5                 NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    0.5            0.5                 gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    0.5            0.5                 gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    0.5            0.5                 ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+independent    0.5            1                   NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    0.5            1                   gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    0.5            1                   gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    0.5            1                   ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+independent    1              0.5                 NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    1              0.5                 gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    1              0.5                 gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    1              0.5                 ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+independent    1              1                   NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    1              1                   gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    1              1                   gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    1              1                   ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+independent    1              2                   NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    1              2                   gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    1              2                   gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    1              2                   ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+independent    2              1                   NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    2              1                   gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    2              1                   gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    2              1                   ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+independent    2              2                   NLO.CS.32.RA.QCD                                                            -nan +-            -nan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+independent    2              2                   gu_epvebb~d                                                                 -nan +-            -nan         -nan       3      (   0)
+independent    2              2                   gd~_epvebb~u~                                                               -nan +-            -nan         -nan       3      (   0)
+independent    2              2                   ud~_epvebb~g                                                                -nan +-            -nan         -nan       3      (   0)
+
+======================================================================================================================================================================================
+
