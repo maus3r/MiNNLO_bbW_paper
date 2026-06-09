@@ -1,9 +1,9 @@
 to do:
-- finish understanding giant K-factors
+- finish understanding giant K-factors --> LucaB, Marius
   * it is either soft g->bb or soft W (or both)
-- implementation of KQ dependence with new modified logarithms
+- implementation of KQ dependence with new modified logarithms --> Pier, LucaR (Daniele + Marius)
   * mathematica notebook, equations
   * implementation in code (can we find simple replacements for KQ of existing code?)
-- go beyond NLL?
+- go beyond NLL? --> LucaB, Pier
   * reexpand the colour evolution? --> section 5 of https://arxiv.org/pdf/2312.16408
   * numerical diagonalisation?

@@ -1,4 +1,4 @@
-cp ../../raw_data/MATRIX_results/result.runs/mWbb/scale.band/*..NNLO.QCD.dat .
+cp ../../raw_data/MATRIX_results/result.runs.bugfixsoft/mWbb/scale.band/*..NNLO.QCD.dat .
 rename_make ..NNLO.QCD.dat __MATRIX_NNLO_QCD.dat
 rename_make ..NLO.QCD.dat __MATRIX_NLO_QCD.dat
 rename_make ..LO.dat __MATRIX_LO.dat

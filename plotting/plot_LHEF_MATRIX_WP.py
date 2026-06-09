@@ -1129,6 +1129,9 @@ if __name__ == "__main__":
         MiNLO_lhef_kQ1 = MiNNLO_lhef_kQ1.replace("MiNNLO_W","MiNLO_W").replace("_MiNNLO","_MiNLO")
         MiNNLO_lhef_kQ025 = plot.replace("kQ05","kQ025")
         MiNLO_lhef_kQ025 = MiNNLO_lhef_kQ025.replace("MiNNLO_W","MiNLO_W").replace("_MiNNLO","_MiNLO")
+        MiNNLO_lhef_kQ05_LC  = plot.replace("_lhef","_lhef_LC")
+        MiNNLO_lhef_kQ1_LC   = MiNNLO_lhef_kQ1.replace("_lhef","_lhef_LC")
+        MiNNLO_lhef_kQ025_LC = MiNNLO_lhef_kQ025.replace("_lhef","_lhef_LC")
 
         MiNNLOptj_lhef_kQ05  = MiNNLO_lhef_kQ05.replace("NLO_Wp_k","NLOptj_Wp_k")
         MiNLOptj_lhef_kQ05   = MiNLO_lhef_kQ05.replace("NLO_Wp_k","NLOptj_Wp_k")
@@ -1141,6 +1144,7 @@ if __name__ == "__main__":
         NLOPS_lhef_NNLOPDF = plot.replace("MiNNLO_Wp_kQ05_lhef","NLO+PS_NNLOPDF_lhef")
         NLOPS_lhef_NLOPDF = plot.replace("MiNNLO_Wp_kQ05_lhef","NLO+PS_NLOPDF_lhef")
 
+        MATRIX_NNLO_Sharkbug = plot.replace("MiNNLO_Wp_kQ05_lhef","MATRIX_NNLO_QCD_Sharkbug")
         MATRIX_NNLO = plot.replace("MiNNLO_Wp_kQ05_lhef","MATRIX_NNLO_QCD")
         MATRIX_NLO  = plot.replace("MiNNLO_Wp_kQ05_lhef","MATRIX_NLO_QCD")
         MATRIX_LO   = plot.replace("MiNNLO_Wp_kQ05_lhef","MATRIX_LO")
@@ -1153,6 +1157,8 @@ if __name__ == "__main__":
 
         if os.path.exists(MiNNLO_lhef_kQ05):
             gnu.add_curve(MiNNLO_lhef_kQ05,{"format" : "histogram", "label" : "MiNNLO (LHE)","line_style" : 1})
+        if os.path.exists(MiNNLO_lhef_kQ05_LC):
+            gnu.add_curve(MiNNLO_lhef_kQ05_LC,{"format" : "histogram", "label" : "MiNNLO LC-2L","line_style" : 4})
         # if os.path.exists(MiNNLO_lhef_kQ025):
         #     gnu.add_curve(MiNNLO_lhef_kQ025,{"format" : "histogram", "label" : "MiNNLO (LHE) kQ=0.25","line_style" : 4})
         # if os.path.exists(MiNLO_lhef_kQ025):
@@ -1169,8 +1175,10 @@ if __name__ == "__main__":
         #     gnu.add_curve(NLOPS_lhef_NNLOPDF,{"format" : "histogram", "label" : "NLO+PS NNLOPDFs","line_style" : 5})
         # if os.path.exists(MATRIX_LO):
         #      gnu.add_curve(MATRIX_LO,{"format" : "histogram", "label" : "LO (MATRIX)","line_style" : 6})
-        if os.path.exists(MATRIX_NLO):
-             gnu.add_curve(MATRIX_NLO,{"format" : "histogram", "label" : "NLO QCD (MATRIX)","line_style" : 4})
+        # if os.path.exists(MATRIX_NLO):
+        #      gnu.add_curve(MATRIX_NLO,{"format" : "histogram", "label" : "NLO QCD (MATRIX)","line_style" : 4})
+#        if os.path.exists(MATRIX_NNLO_Sharkbug):
+#             gnu.add_curve(MATRIX_NNLO_Sharkbug,{"format" : "histogram", "label" : "NNLO QCD Sharkbug","line_style" : 4})
         if os.path.exists(MATRIX_NNLO):
             gnu.add_curve(MATRIX_NNLO,{"format" : "histogram", "label" : "NNLO QCD (MATRIX)","line_style" : 3})
         else:
