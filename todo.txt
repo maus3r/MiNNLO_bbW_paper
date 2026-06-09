@@ -1,0 +1,9 @@
+to do:
+- finish understanding giant K-factors
+  * it is either soft g->bb or soft W (or both)
+- implementation of KQ dependence with new modified logarithms
+  * mathematica notebook, equations
+  * implementation in code (can we find simple replacements for KQ of existing code?)
+- go beyond NLL?
+  * reexpand the colour evolution? --> section 5 of https://arxiv.org/pdf/2312.16408
+  * numerical diagonalisation?
